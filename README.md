@@ -87,12 +87,14 @@ Currently exploring *Next.js* and expanding my skills in full-stack development.
   <a href="https://www.linkedin.com/in/mstsubornakhatun1/" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.facebook.com/MstSubornaKhatun4" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
+  <a href="https://www.facebook.com/MstSubornaKhatun4" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="mailto:suborna3583@gmail.com" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+
+</p>
+
+<p align="center" style="margin-top: 15px;">
+  📧 <a href="mailto:suborna3583@gmail.com" style="color: #000; text-decoration: none;">suborna3583@gmail.com</a>
 </p>
 
 <p align="center" style="margin-top: 15px;">
