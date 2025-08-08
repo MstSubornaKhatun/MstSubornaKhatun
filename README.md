@@ -9,10 +9,6 @@
 
 <br />
 <br />
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MstSubornaKhatun&show_icons=true&theme=react" alt="GitHub Stats" />
-</p>
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MstSubornaKhatun&layout=compact&theme=react" alt="Top Languages" />
@@ -69,13 +65,13 @@
 <p align="center">
   <br /> 
   <br />
-  <a href="https://www.linkedin.com/in/mstsubornakhatun" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
+  <a href="https://www.linkedin.com/in/mstsubornakhatun1/" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.facebook.com/MstSubornaKhatun4" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="mailto:suborna3583@gmail.com" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
+  <a href="suborna3583@gmail.com" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
