@@ -5,14 +5,33 @@
 
 <br />
 
+
 ## 📊 GitHub Stats
 
-<br />
-<br />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MstSubornaKhatun&show_icons=true&theme=react" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=MstSubornaKhatun&theme=react&hide_border=true" alt="GitHub Streak Stats" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MstSubornaKhatun&layout=compact&theme=react" alt="Top Languages" />
 </p>
+<br />
+
+
+
+## 👩‍💻 About Me
+Hi, I'm *Mst. Suborna Khatun* — a passionate and dedicated *Junior Web Developer*.  
+I love building clean, user-friendly, and responsive web applications.  
+Currently exploring *Next.js* and expanding my skills in full-stack development.  
+
+### 🌱 Current Activities
+- 🚀 Learning advanced React & Next.js concepts.  
+- 🛠 Working on a tourism website project.  
+- 📚 Exploring backend technologies with Node.js & MongoDB.
 
 
 
@@ -71,7 +90,7 @@
   <a href="https://www.facebook.com/MstSubornaKhatun4" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="suborna3583@gmail.com" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
+  <a href="mailto:suborna3583@gmail.com" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
